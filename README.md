@@ -1,4 +1,8 @@
- <h1 align="center">Hi 👋, I'm Huzaifa Atta</h1>
+ <h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Huzaifa+Atta;I+am+App+Developer;I+am+UI/UX+Designer+;I+am+Web+Designer+%F0%9F%91%8B&center=true&size=30">
+  </a>
+</h1>
 
 - 🔭 I’m currently working on Flutter
 - 💬 Ask me anything about Flutter 
@@ -15,13 +19,16 @@
   </a>
    <a href="https://www.facebook.com/profile.php?id=100082221821643">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
+    
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/huzaifa-khan-atta)
 </div>
 
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
 
 ![Huzaifa GitHub stats](https://github-readme-stats.vercel.app/api?username=huzaifa-huzzi&show_icons=true&theme=dark)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=huzaifa-huzzi&show_icons=true&theme=dark)<br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa-huzzi&theme=dark)
 
