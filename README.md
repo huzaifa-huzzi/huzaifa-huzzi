@@ -17,7 +17,7 @@
    <a href="https://www.instagram.com/iam_huzaifaatta156/">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-   <a href="https://www.facebook.com/profile.php?id=100082221821643">
+   <a href="https://www.facebook.com/profile.php?id=61560235934439">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/huzaifa-khan-atta)
