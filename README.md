@@ -35,3 +35,7 @@
 
 <br>
 ⭐️ From [Huzaifa atta](https://github.com/huzaifa-huzzi)
+
+<br>
+⭐️ From [Huzaifa atta](https://huzaifa-huzzi.github.io/Resume/)
+
